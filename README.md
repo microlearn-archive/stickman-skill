@@ -1,3 +1,6 @@
+> **این مخزن منتقل شد:** محتوای کامل و به‌روز اینجاست: https://github.com/eaca89/microlearn-ai-plus/tree/main/skills/stickman-skill
+> **Moved:** this repository now lives at https://github.com/eaca89/microlearn-ai-plus/tree/main/skills/stickman-skill
+
 # مهارت استیک‌من برای Claude (stickman skill)
 
 یه مهارت (Skill) برای Claude که فیلم داستانیِ استیک‌من رو کامل با کد می‌سازه: آدمک‌ها رو می‌کشه، دوربین رو حرکت می‌ده، صدای افکت می‌ذاره و آخرش یه فایل MP4 تحویل می‌ده.
